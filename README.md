@@ -9,4 +9,6 @@
 
 Feito por Mayra Tavares
 ##
+Disponivel em https://gsnumber-mayraleals-projects.vercel.app/
+##
 linkedin https://www.linkedin.com/in/mayra-tavares-tech/
