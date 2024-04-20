@@ -1,4 +1,4 @@
-<h1> Jogo de numero secreto </h1>
+<h1> Jogo do numero secreto </h1>
 <h2>Sobre</h2>
 <p>Projeto utilizado nos cursos de Lógica de Programação da Alura.</p>
 ##  🚀 Tecnologias
